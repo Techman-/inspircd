@@ -4,6 +4,7 @@
 
 .*
 !.git*
+!.vscode
 
 /.configure
 /Makefile
